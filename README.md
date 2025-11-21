@@ -231,9 +231,14 @@ Métodos auxiliares privados para gestión de XML:
 /DAW1_AdivinaNumero_PabloPedronLopez
 │
 ├─ src/
-│  └─ adivinanumeroaleatorio.java
-│
-├─ scores.xml  (creado automáticamente)
+│  └─ main.java
+│  └─ scores.xml (Se crea automáticamente)
+|
+├─ diagramas/
+│  └─ DIAGRAMA DE ACTIVIDAD - PABLO PEDRÓN.pdf
+│  └─ DIAGRAMA DE FLUJO - PABLO PEDRÓN.pdf
+|
+├─ scores.xml  (Formato original del XML, si no lo metes en src se creará automáticamente uno)
 └─ README.md
 ```
 
