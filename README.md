@@ -228,7 +228,7 @@ Métodos auxiliares privados para gestión de XML:
 ## Estructura de archivos
 
 ```
-/DAW1_AdivinaNumero_PabloPedronLopez
+/DAW1_AdivinaNumero_PabloPedron
 │
 ├─ src/
 │  └─ main.java
