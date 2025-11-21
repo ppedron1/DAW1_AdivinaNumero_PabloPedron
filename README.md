@@ -1,5 +1,5 @@
-# DAW1_AdivinaNumero_PabloPedron
-@PabloPedrón
+## DAW1_AdivinaNumero_PabloPedron
+Pablo Pedrón 
 # README - Adivina el número en java
 
 -Este documento explica cómo compilar y ejecutar el programa **adivinanumeroaleatorio.java** desde la línea de comandos, pruebas realizadas y una breve explicación de los diferentes métodos y funcionalidades.
