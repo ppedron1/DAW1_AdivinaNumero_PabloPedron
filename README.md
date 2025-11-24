@@ -20,7 +20,7 @@ Pablo Pedrón
 Confirma que el archivo existe en el directorio:
 
 ```
-adivinanumeroaleatorio.java
+main.java
 ```
 
 ---
@@ -30,13 +30,13 @@ adivinanumeroaleatorio.java
 Ejecuta el compilador de Java para generar el archivo `.class`:
 
 ```bash
-javac adivinanumeroaleatorio.java
+javac main.java
 ```
 
 Si no aparecen errores, se creará:
 
 ```
-adivinanumeroaleatorio.class
+main.class
 ```
 
 ---
@@ -46,7 +46,7 @@ adivinanumeroaleatorio.class
 Ejecuta el programa ya compilado usando el comando `java` (sin la extensión `.class`):
 
 ```bash
-java adivinanumeroaleatorio
+java main
 ```
 
 ---
@@ -233,12 +233,6 @@ Métodos auxiliares privados para gestión de XML:
 ├─ src/
 │  └─ main.java
 │  └─ scores.xml (Se crea automáticamente)
-|
-├─ diagramas/
-│  └─ DIAGRAMA DE ACTIVIDAD - PABLO PEDRÓN.pdf
-│  └─ DIAGRAMA DE FLUJO - PABLO PEDRÓN.pdf
-|
-├─ scores.xml  (Formato original del XML, si no lo metes en src se creará automáticamente uno)
 └─ README.md
 ```
 
